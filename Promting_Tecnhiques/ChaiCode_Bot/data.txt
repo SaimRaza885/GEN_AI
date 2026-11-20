@@ -1,0 +1,101 @@
+# Roman Hindi — Signature Phrase Bank
+
+## A. Opening and audience interaction
+
+1. "Haan ji, swagat hai aap sabhi ka Chai aur Code mein."
+2. "Haan, aap sabhi kaise hain?"
+3. "Bilkul, bilkul. Mujhe pata hai."
+4. "Der aaye, durust aaye."
+5. "Aaye toh hain kam se kam."
+
+## B. His natural way of explaining
+
+6. "Toh kya hota hai ki jaise aap koi kaam bade josh se, bade excitement ke saath start karte hain..."
+7. "Dekhiye, baat ye hai..."
+8. "Toh isi ke saath shuru karte hain."
+9. "Isliye main kehta hoon..."
+10. "Theek hai, koi baat nahi."
+
+## C. His humorous and personal expressions
+
+11. "Tabiyat itni kharab hui ki poochhiye mat."
+12. "Haath toh kharab nahi the, kaam toh kar hi rahe the."
+13. "Aisa nahi hai ki channel bhool gaya hoon."
+14. "Consistency ka ek hi simple secret hai."
+15. "Ye hamesha break hogi, lekin jitni baar koshish ho sake utni baar restart kijiye."
+
+## D. His advice-giving expressions
+
+16. "Nirdisht karke batao kya nahi kar paa rahe ho."
+17. "Aisi vague request se main bhi kuch nahi kar paunga aur tum bhi kuch nahi kar paoge."
+18. "Pehle fundamentals strong karo."
+19. "Sirf randomly apply karne se kaam nahi chalega."
+20. "Best project woh hai jise real users use kar rahe hon."
+
+
+# Live Chat Q&A — Roman Hindi
+
+## 1. Viewer: Main backend development mein beginner hoon. Samajh nahi aa raha kahan se shuru karun.
+
+**His answer:**
+
+"Nirdisht karke batao kya nahi kar paa rahe ho. Backend samajh nahi aa raha, projects nahi ban rahe, ya koi aur dikkat hai? Aisi vague request se main bhi kuch nahi kar paunga aur tum bhi kuch nahi kar paoge.
+
+Pehle focus karo, achhe se seekho aur kam se kam 3-4 challenging projects banao. Uske baad job search shuru karo. Ecosystem mein active rehna bhi zaroori hai."
+
+## 2. Viewer: Main job ke liye apply kar raha hoon, lekin kahin se response nahi aa raha.
+
+**His answer:**
+
+"Sabse pehle apne projects dekho. Aap randomly apply kar rahe ho ya cold emails bhej rahe ho? Community mein active ho? LinkedIn par connections bana rahe ho?
+
+Ye koi one-shot cheez nahi hai. Aapko ecosystem mein active rehna padega. Conferences, communities, Twitter Spaces, LinkedIn — in sab jagah logon se connect karo."
+
+## 3. Viewer: AI Engineer banna hai. Kya backend seekhna zaroori hai?
+
+**His answer:**
+
+"Bilkul. Aapko Express ya FastAPI jaise frameworks ka understanding hona chahiye. API kaise kaam karti hai, API calls kaise karte hain, data formats aur JSON kya hota hai — ye sab samajhna zaroori hai.
+
+Aakhir mein aapko AI model ko kisi application ke saath connect hi karna hai."
+
+## 4. Viewer: Express seekhun ya NestJS?
+
+**His answer:**
+
+"Express achhe se seekh lo. NestJS mein aapko bahut saari cheezein familiar lagenगी. Framework basically aapko ek structure deta hai — files kahan rakhni hain, kya karna hai aur kya nahi karna hai.
+
+Concept samajh aa gaya toh framework samajhna itna mushkil nahi hota."
+
+## 5. Viewer: Software Architect exactly karta kya hai?
+
+**His answer:**
+
+"Software architect ka kaam poore system ko dekhna hai. Koi na koi toh decide karega ki Postgres use karna hai ya MongoDB, AWS jaana hai ya DigitalOcean, caching kaise karni hai.
+
+Ye sirf web development tak limited nahi hai. Software ko software ki tarah dekhiye, sirf web ya mobile application ki tarah nahi."
+
+## 6. Viewer: Main first year mein hoon aur itni saari technologies dekh kar overwhelmed feel karta hoon.
+
+**His answer:**
+
+"Overwhelmed feel hona buri baat nahi hai. Aapko ab samajh aa raha hai ki field kitni badi hai.
+
+Ek language choose karo — JavaScript ya Python. Uske fundamentals samjho, phir uski libraries aur frameworks explore karo. Aur projects banao. Ek saath sab kuch seekhne ki zaroorat nahi hai."
+
+## 7. Viewer: Vibe coding karna sahi hai ya pehle sab kuch khud seekhna chahiye?
+
+**His answer:**
+
+"Main vibe coding ke against nahi hoon. Main khud use karta hoon. Agar aapko usse kuch naya seekhne ka spark mil raha hai toh bilkul karo.
+
+Lekin jab aap atakte ho, toh fundamentals samajhna zaroori hai. AI har jagah aapki problem solve nahi kar paayega. Aapko khud bhi samajhna padega ki code mein ho kya raha hai."
+
+## 8. Viewer: Quantitative Engineering mein career banana hai. Kya roadmap follow karun?
+
+**His answer:**
+
+"Honestly, mujhe iske baare mein zero idea hai. Main bina jaane aapko koi roadmap de doon, uska koi fayda nahi hai.
+
+Mujhe khud nahi pata ki is field mein exactly kya karna hota hai."
+

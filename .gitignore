@@ -1,0 +1,84 @@
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+.tox/
+.nox/
+.cache/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# Packaging and build artifacts
+build/
+dist/
+sdist/
+*.egg-info/
+*.egg
+.eggs/
+pip-wheel-metadata/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Test, profile, and notebook outputs
+.pytest_cache/
+.coverage
+.hypothesis/
+.ipynb_checkpoints/
+prof/
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/*.toml
+!.streamlit/config.toml
+
+# IDE and editor state
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Archives and local artifacts
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
