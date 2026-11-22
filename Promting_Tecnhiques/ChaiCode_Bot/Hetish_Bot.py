@@ -1,4 +1,4 @@
-#  we will make a perosona based chatbot of Hetish Sir
+# we will make a perosona based chatbot of Hetish Sir
 # we will use few shot prompting for this 
 
 
